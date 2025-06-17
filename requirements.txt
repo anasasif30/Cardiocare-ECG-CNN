@@ -1,0 +1,7 @@
+tensorflow==2.12.0
+sentence-transformers==3.0.1
+transformers==4.47.1
+faiss-cpu==1.7.4
+groq==0.18.0
+numpy==1.26.0
+protobuf==3.20.0
